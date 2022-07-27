@@ -9,7 +9,7 @@
 - 💞️ I’m looking to collaborate on for the company
        Infosys to provide my services for the system engineer role.
 - 📫 How to reach me ...
-        Emai id: s.nny723@gmail.com
+        Email id: s.nny723@gmail.com
 
 <!---
 sandeep-409/sandeep-409 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
